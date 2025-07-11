@@ -1,6 +1,6 @@
 <h1 align="center">🎥 Video Calling Interview Platform ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+![Demo App](https://github.com/Gauravpatil07/Remote-Interview-Platform/blob/0842a81934a59c14f25430169f061de77e00debf/Screenshot.png)
 
 <p align="center">
   A full-stack video interview platform built with <b>Next.js</b>, <b>TypeScript</b>, <b>WebRTC</b>, and <b>Socket.io</b>.<br />
@@ -43,14 +43,12 @@ npm run dev
 Create a `.env.local` file in the root and add:
 
 ```env
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-CLERK_SECRET_KEY=your_clerk_secret_key
-
-CONVEX_DEPLOYMENT=your_convex_deployment_url
-NEXT_PUBLIC_CONVEX_URL=your_convex_public_url
-
-NEXT_PUBLIC_STREAM_API_KEY=your_stream_api_key
-STREAM_SECRET_KEY=your_stream_secret_key
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+CONVEX_DEPLOYMENT=
+NEXT_PUBLIC_CONVEX_URL=
+NEXT_PUBLIC_STREAM_API_KEY=
+STREAM_SECRET_KEY=
 ```
 
 ---
