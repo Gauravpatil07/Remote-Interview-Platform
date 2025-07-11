@@ -1,10 +1,11 @@
-<h1 align="center">🎥 Remote Interview Platform</h1>
+<h1 align="center">🎥 Video Calling Interview Platform ✨</h1>
+
+![Demo App](/public/screenshot-for-readme.png)
 
 <p align="center">
   A full-stack video interview platform built with <b>Next.js</b>, <b>TypeScript</b>, <b>WebRTC</b>, and <b>Socket.io</b>.<br />
   Designed for seamless remote technical interviews with real-time video calling, screen sharing, and authentication.
   <br /><br />
-  <a href="https://youtu.be/xEnnRNH_lyw?si=tA9jGbq88iARbboA"><strong>📺 Watch Demo on YouTube »</strong></a>
 </p>
 
 ---
