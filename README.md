@@ -1,12 +1,12 @@
 <h1 align="center">🎥 Video Calling Interview Platform ✨</h1>
 
-![Demo App](https://github.com/Gauravpatil07/Remote-Interview-Platform/blob/0842a81934a59c14f25430169f061de77e00debf/Screenshot.png)
-
 <p align="center">
   A full-stack video interview platform built with <b>Next.js</b>, <b>TypeScript</b>, <b>WebRTC</b>, and <b>Socket.io</b>.<br />
   Designed for seamless remote technical interviews with real-time video calling, screen sharing, and authentication.
   <br /><br />
 </p>
+
+![Demo App](https://github.com/Gauravpatil07/Remote-Interview-Platform/blob/0842a81934a59c14f25430169f061de77e00debf/Screenshot.png)
 
 ---
 
