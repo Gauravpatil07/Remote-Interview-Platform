@@ -28,7 +28,7 @@
 ## ⚙️ Quick Setup
 
 ```bash
-git clone https://github.com/burakorkmez/remote-interview-platform.git
+git clone https://github.com/Gauravpatil07/Remote-Interview-Platform.git
 cd remote-interview-platform
 npm install
 npm run dev
