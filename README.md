@@ -1,7 +1,7 @@
 <h1 align="center">🎥 Video Calling Interview Platform ✨</h1>
 
 <p align="center">
-  A full-stack video interview platform built with <b>Next.js</b>, <b>TypeScript</b>, <b>WebRTC</b>, and <b>Socket.io</b>.<br />
+  A full-stack video interview platform built with <b>React</b>, <b>Next.js</b> <br />
   Designed for seamless remote technical interviews with real-time video calling, screen sharing, and authentication.
   <br /><br />
 </p>
