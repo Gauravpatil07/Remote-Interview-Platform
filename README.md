@@ -34,10 +34,6 @@ npm install
 npm run dev
 ````
 
-> 💡 Make sure the Socket.io server runs on `http://localhost:3001`.
-
----
-
 ## 🔐 Environment Variables
 
 Create a `.env.local` file in the root and add:
